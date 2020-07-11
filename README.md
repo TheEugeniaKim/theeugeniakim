@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Eugenia, and I'm a software engineer in New York City. 
+
 
 <!--
 **TheEugeniaKim/theeugeniakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
